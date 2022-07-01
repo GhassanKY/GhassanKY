@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Ghassan El Khoury</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Student at La Rueca Asociacion, Madrid🌟.</h3>
 
 <br>
 
