@@ -61,13 +61,16 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :D</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=GhassanKY&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="GhassanKY" 
     bg_color=#808080/></p>
 
 <br>
 
+![GhassanKY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhassanKY&show_icons=true&theme=tokyonight)
+
+<br>
 
 [GhassanKY](https://github.com/GhassanKY)
