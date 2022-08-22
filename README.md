@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **elkhouryghassan712@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :D Food and Music🎵 are the reasons to live.
 
 <br>
 
